@@ -1,8 +1,8 @@
-name: Robust Activity Bot
+name: Robo  Bot
 
 on:
   schedule:
-    - cron: '0 */8 * * *'
+    - cron: '4 */8 * * *'
   workflow_dispatch:
 
 jobs:
